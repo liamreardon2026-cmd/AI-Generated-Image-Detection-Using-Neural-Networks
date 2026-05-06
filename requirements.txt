@@ -1,6 +1,5 @@
-
-streamlit
-tensorflow-cpu
+streamlit==1.37.1
+tensorflow==2.16.1
 numpy
 pillow
 huggingface_hub
