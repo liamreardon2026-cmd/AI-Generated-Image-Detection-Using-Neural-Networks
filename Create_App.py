@@ -104,4 +104,3 @@ if uploaded_file is not None:
 with open("app.py", "w") as f:
     f.write(code)
 
-print("app.py overwritten successfully")
